@@ -1,0 +1,10 @@
+package desafios;
+
+public class terceiroEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
